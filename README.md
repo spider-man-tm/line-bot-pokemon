@@ -37,4 +37,4 @@ python_version = "3.8"
 <br><br>
 
 ## LINEの画面
-![fig2](https://github.com/spider-man-tm/readme_figure/blob/master/line-bot_pokemon/line_image.png)
+![fig2](https://github.com/spider-man-tm/readme_figure/blob/master/line-bot_pokemon/image.png)
